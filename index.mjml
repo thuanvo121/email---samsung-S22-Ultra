@@ -1,0 +1,152 @@
+<mjml>
+<mj-head>
+    <mj-attributes>
+        <mj-text padding="0px" font-family="Calibri" font-size="14px" line-height="20px" font-weight="400" color="white" />
+        <mi-image padding="0px"/>
+        <mj-section padding="0px"/>
+        <mj-button href="https://www.google.com/" target="_blank" padding="0px" background-color="black" border="2px solid white" color="white" width="212px" height="20px" border-radius="20px" font-weight="700"/>
+    </mj-attributes>
+    <mj-style inline="inline">
+    .no-link{color:inherit;text-decoration:none}
+           </mj-style>
+           <!-- responsive -->
+           <mj-style>
+               @media (max-width:480px){
+                .text{font-size:15px} /*button */
+               }
+           </mj-style>
+</mj-head>
+<mj-body background-color="black">
+<mj-section>
+    
+</mj-section>
+<!-- image header -->
+    <mj-section>
+    <mj-column width="600">
+    <mj-text padding-top="10px" align="center" font-size="12px">
+        Take a closer look at the innovative Galaxy S22 Ultra
+    </mj-text>
+</mj-column>
+<mj-column width="600px">
+        <mj-image href="https://www.google.com/" target="_blank" width="600px" src="https://samsung-crm.com/mena/SGE/2022/8900-rainbow-launch-w3/kv-main-male-en.gif
+" alt="" />
+    <mj-text font-size="18px" line-height="22px" align="center" font-weight="700">
+        This is Galaxy as you've never seen before
+    </mj-text>
+    <mj-text align="center" padding-left="50px" padding-right="50px" padding-right="30px">
+        Our fastest chip ever puts world‑class power in your hands. A battery that goes all day and night. And for the first time ever on Galaxy S Series, a built‑in S Pen. Whichever way you look at it, Galaxy S22 Ultra will change your world.
+    </mj-text>
+</mj-column>
+    </mj-section>
+    <!-- 2 button section -->
+    <mj-section padding-top="30px" padding-bottom="40px">
+        <mj-column width="250px">
+    <!-- <div class="btn"> -->
+   <mj-button>
+        BUY NOW
+    </mj-button>
+</mj-column>
+        <mj-column width="250px">
+    <mj-button>
+        EXPLORE IN 360
+    </mj-button>
+</mj-column>
+    </mj-section>
+    <!-- red box section -->
+    <mj-section background-color="#bd3a54">
+        <mj-column width="600px">
+    <mj-text padding-top="40px" font-size="18px" line-height="22px" align="center" font-weight="700">
+        Get Galaxy Buds Pro worth BHD 75 on us*. Limited time only!
+    </mj-text>
+    <mj-button padding-top="20px" padding-bottom="30px" background-color="inherit">
+        BUY NOW
+    </mj-button>
+</mj-column>
+    </mj-section>
+    <!-- product info section -->
+    <mj-section padding-top="20px">
+        <mj-column width="300px" padding-left="30px">
+    <mj-text padding-top="35px" font-size="18px" line-height="22px" font-weight="700">
+        A Galaxy S Series first
+    </mj-text>
+    <mj-text padding-top="20px">
+        Take notes. Sketch an idea. S Pen is on<br> Galaxy S Series, and it's a game‑changer.
+    </mj-text>
+    <mj-button padding-top="30px" align="left">
+        DISCOVER S PEN
+    </mj-button>
+</mj-column>
+<mj-column width="300px">
+    <mj-image src="https://samsung-crm.com/mena/SGE/2022/8900-rainbow-launch-w3/kv-spen.jpg?v=2" alt="" />
+</mj-column>
+    </mj-section>
+    <!-- info 2 -->
+    <mj-section padding-top="20px">
+        <mj-column width="600px">
+    <mj-image href="https://www.google.com/" target="_blank" width="420px" src="https://samsung-crm.com/mena/SGE/2022/8900-rainbow-launch-w3/kv-battery.png" alt="" />
+    <mj-text font-size="18px" line-height="22px" align="center" font-weight="700">
+        A battery you can rely on
+    </mj-text>
+    <mj-text align="center" padding-right="30px" padding-left="30px" padding-top="10px">
+        Enhanced AI takes 5000mAh (typical) of power from one day into the next, intelligently adapting to the way you use your phone.
+    </mj-text>
+    <mj-button padding-top="30px">
+        DISCOVER BATTERY
+    </mj-button>
+    <mj-text padding-top="30px"font-size="28px" line-height="22px" align="center" font-weight="700">
+        Only at samsung.com
+    </mj-text>
+</mj-column>
+    </mj-section>
+    <!-- samsung policy section -->
+    <mj-section padding-top="20px">
+        <mj-column width="200px">
+    <mj-image width="125px" src="https://samsung-crm.com/mena/SGE/2022/8900-rainbow-launch-w3/icon-estore-care-dark.png" alt="" />
+    <mj-text font-size="18px" line-height="px" align="center" font-weight="500">
+       <div class="text">Accidental damage coverage*</div>
+    </mj-text>
+</mj-column>
+        <mj-column width="200px">
+    <mj-image width="125px" src="https://samsung-crm.com/mena/SGE/2022/8900-rainbow-launch-w3/icon-estore-delivery-dark.png" alt="" />
+    <mj-text padding-left="15px" font-size="18px" line-height="px" align="center" font-weight="500">
+        <div class="text">Enjoy free delivery straight to your door</div>
+    </mj-text>
+</mj-column>
+        <mj-column width="200px">
+    <mj-image width="125px" src="https://samsung-crm.com/mena/SGE/2022/8900-rainbow-launch-w3/icon-estore-warranty-dark.png" alt="" />
+    <mj-text font-size="18px" line-height="px" align="center" font-weight="500">
+        <div class="text">1-year warranty</div>
+    </mj-text>
+</mj-column>
+    </mj-section>
+<!-- footer -->
+<mj-section>
+    <mj-column width="600px" padding-right="20px" padding-left="20px" >
+    <mj-image padding-top="30px" src="https://samsung-crm.com/mena/SGE/2022/8900-rainbow-launch-w3/break-dark.png" alt="" />
+    <mj-text font-size="11px" font-weight="400" line-height="16px" color="#999999">
+        © Copyright ﻿2﻿0﻿2﻿2﻿ Samsung Gulf Electronics Ltd. All rights reserved.
+
+Contact us | Privacy | Legal
+
+Please do not reply to this email – this address isn't monitored.
+    </mj-text>
+    <mj-text padding-top="10px" font-size="11px" font-weight="400" line-height="16px" color="#999999">
+        Samsung Gulf Electronics, Butterfly Building Tower A, Albourooj Street – Dubai Media City, Dubai, United Arab Emirates P.O. Box ﻿5﻿0﻿0﻿0﻿4﻿7﻿.
+    </mj-text>
+    <mj-text padding-top="10px" font-size="11px" font-weight="400" line-height="16px" color="#999999">
+        You must be of legal age under applicable local laws to receive this communication. This email has been sent to members who have requested to join the mailing list. If you prefer not to receive email updates, <a href="https://www.google.com/" target="_blank" class="no-link" style="text-decoration:underline">unsubscribe</a>.
+    </mj-text>
+    <mj-text padding-top="10px" font-size="11px" font-weight="400" line-height="16px" color="#999999">
+        *<a href="https://www.google.com/" target="_blank" class="no-link" style="text-decoration:underline"> Terms and Conditions apply</a>
+    </mj-text>
+</mj-column>
+</mj-section>
+</mj-body>
+
+</mjml>
+
+<!-- href="https://www.google.com/" target="_blank" class="no-link" text-decoration="underline"-->
+
+<!-- <mj-column width="">
+    
+</mj-column> -->
